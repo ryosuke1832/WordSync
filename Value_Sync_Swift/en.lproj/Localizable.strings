@@ -1,0 +1,110 @@
+"accessibility.manual" = "How to play";
+"accessibility.switch_to_english" = "Switch to English";
+"accessibility.switch_to_japanese" = "Switch to Japanese";
+
+"top.subtitle" = "Can You Think the Same?";
+"top.start_hint" = "Tap to start the game";
+"start_button.play" = "Play";
+
+"member_number.title" = "Player Count";
+"member_number.prompt" = "Select number of players";
+"member_number.range_hint" = "3 to 10 players";
+"player_count_format" = "%d players";
+"decision.confirm" = "Confirm";
+
+"member_name.title" = "Player Names";
+"member_name.prompt" = "Enter player names";
+"member_name.player_label_format" = "Player %d";
+"member_name.placeholder_format" = "Player%d";
+
+"theme_select.title" = "Theme";
+"theme_select.random_section" = "Pick a random theme";
+"theme_select.random_button" = "Random";
+"theme_select.category_section" = "Categories";
+"theme_select.custom_section" = "Custom theme";
+"theme_select.custom_theme_placeholder" = "Enter theme";
+"theme_select.custom_metric_placeholder" = "Metric (e.g. 1:Low-100:High)";
+"theme_select.custom_confirm" = "Use custom theme";
+"theme_select.confirm_title" = "Start with this theme?";
+"theme_list.title_default" = "Themes";
+
+"category.theme1" = "Popularity";
+"category.theme2" = "Feelings";
+"category.theme3" = "Aspiration";
+"category.theme4" = "Situations";
+
+"confirmation.title" = "Confirm";
+"confirmation.theme_title" = "Theme";
+"confirmation.prompt" = "Check your number one by one";
+"confirmation.no_players" = "No players configured";
+"confirmation.tap_hint" = "Tap to view number";
+"confirmation.next" = "Next";
+"confirmation.is_player_format" = "Are you \"%@\"?";
+"confirmation.number_title" = "Your Number";
+"confirmation.close" = "Close";
+
+"discussion.title" = "Discussion";
+"discussion.result_input" = "Enter Results";
+"discussion.end_title" = "Discussion Over";
+"discussion.end_message" = "Proceed to enter results.";
+"timer.minus_format" = "-%d min";
+"timer.plus_format" = "+%d min";
+
+"result_input.title" = "Ranking Input";
+"result_input.instruction" = "Drag to reorder";
+"result_input.confirm" = "Confirm";
+
+"result_page.title" = "Results";
+"result_page.no_data" = "No data";
+"result_page.your_number_format" = "Your number: %d";
+"result_summary.all_correct" = "All Correct!";
+"result_summary.not_all" = "Not quite...";
+"result_summary.all_message" = "Congrats!\nGreat job!";
+"result_summary.not_message" = "Aim for a perfect score next time!";
+"result_summary.restart_same" = "Again";
+"result_summary.home" = "Back to Home";
+"result_summary.title_perfect" = "Perfect Sync!";
+"result_summary.title_close" = "Close!";
+"result_summary.title_gap" = "Interesting Gap!";
+"result_summary.title_wide" = "Big Gap!";
+"result_summary.match_rate_format" = "Match Rate %d%%";
+
+"manual.title" = "How to Play";
+"manual.overview_title" = "Overview";
+"manual.overview_content" = "This game is about expressing the size of your assigned number through conversation based on a theme.\nEach player describes their number using the theme, and everyone works together to get the correct order.";
+"manual.section1_title" = "1. Choose player count";
+"manual.section1_content" = "Play with 3 to 10 people";
+"manual.section2_title" = "2. Set player names";
+"manual.section2_content" = "Enter each player's name";
+"manual.section3_title" = "3. Choose a theme";
+"manual.section3_content" = "Pick from prepared themes or create your own";
+"manual.section4_title" = "4. Check your number";
+"manual.section4_content" = "Each player receives a random number from 1 to 100. Check your own number without showing others.";
+"manual.section5_title" = "5. Discussion";
+"manual.section5_content" = "Discuss based on the theme. Within the time limit, convey your number through themed descriptions.";
+"manual.section6_title" = "6. Decide the ranking";
+"manual.section6_content" = "After discussion, agree on the order from smallest to largest.";
+"manual.section7_title" = "7. Results";
+"manual.section7_content" = "Compare your order with the actual numbers. If all are correct, you win!";
+"manual.tips_title" = "Tips";
+"manual.tips_content" = "• Avoid saying numbers directly; use themed expressions\n• Listen carefully to infer others' numbers";
+"manual.example_title" = "Example";
+"manual.example_theme" = "Theme: \"Strong animals\"";
+"manual.example_text" = "A (95) → \"Lion\"\nB (50) → \"Monkey\"\nC (5) → \"Ant\"";
+"manual.example_description" = "People may define strength differently. Use conversation to align and sort the numbers correctly.";
+"common.cancel" = "Cancel";
+"common.no" = "No";
+"common.yes" = "Yes";
+"theme_select.default_metric" = "1:Low-100:High";
+"common.unset" = "Not set";
+"validation.title" = "Notice";
+"validation.player_count_range" = "Player count must be between 3 and 10.";
+"validation.player_count_mismatch" = "Player count does not match.";
+"validation.player_name_empty" = "Some player names are empty.";
+"validation.player_name_duplicate" = "Duplicate names are not allowed.";
+"validation.theme_missing" = "Theme has not been selected.";
+"validation.players_data_missing" = "Player data is incomplete.";
+"validation.result_count_mismatch" = "Ranking count is incorrect.";
+"validation.results_missing" = "Results are not ready yet.";
+"validation.results_mismatch" = "Results data is inconsistent.";
+"common.ok" = "OK";

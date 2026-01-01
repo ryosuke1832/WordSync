@@ -1,0 +1,205 @@
+
+{
+"theme1":[
+    {
+      "number": "1",
+      "theme": "コンビニの商品の人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "2",
+      "theme": "100円ショップの商品の人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "3",
+      "theme": "飲食店の人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "4",
+      "theme": "駅の人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "5",
+      "theme": "中華料理の人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "6",
+      "theme": "学校給食の人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "7",
+      "theme": "有名人の人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "8",
+      "theme": "子供に人気なもの",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "9",
+      "theme": "アニメ・漫画のキャラの人気",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    },
+    {
+      "number": "10",
+      "theme": "ゲームキャラの人気（モンスター含む）",
+      "evaluation_metric": "1:人気ない-100:人気ある"
+    }
+  ],
+  "theme2":[
+    {
+      "number": "1",
+      "theme": "美しいもの",
+      "evaluation_metric": "1:美しくない-100:美しい"
+    },
+    {
+      "number": "2",
+      "theme": "こわいもの",
+      "evaluation_metric": "1:こわくない-100:こわい"
+    },
+    {
+      "number": "3",
+      "theme": "楽しいこと",
+      "evaluation_metric": "1:楽しくない-100:楽しい"
+    },
+    {
+      "number": "4",
+      "theme": "嬉しいこと",
+      "evaluation_metric": "1:嬉しくない-100:嬉しい"
+    },
+    {
+      "number": "5",
+      "theme": "カバンに入っていたら嬉しいもの",
+      "evaluation_metric": "1:嬉しくない-100:嬉しい"
+    },
+    {
+      "number": "6",
+      "theme": "言われて嬉しい言葉",
+      "evaluation_metric": "1:どうでもいい-100:嬉しい"
+    },
+    {
+      "number": "7",
+      "theme": "鳥肌が立つこと",
+      "evaluation_metric": "1:少し立つ-100:超立つ"
+    },
+    {
+      "number": "8",
+      "theme": "1000円くらいまででできる楽しいこと",
+      "evaluation_metric": "1:そこそこ-100:楽しい"
+    },
+    {
+      "number": "9",
+      "theme": "祖父母になって考えよう 孫に言われたら嬉しい言葉",
+      "evaluation_metric": "1:嬉しくない-100:嬉しい"
+    },
+    {
+      "number": "10",
+      "theme": "破壊力のある言葉（パワーワード）",
+      "evaluation_metric": "1:破壊力ない-100:破壊力ある"
+    }
+  ]
+
+  ,
+  "theme3":[
+    {
+      "number": "1",
+      "theme": "なりたい生き物",
+      "evaluation_metric": "1:なりたくない-100:なりたい"
+    },
+    {
+      "number": "2",
+      "theme": "なりたい歴史上の人物",
+      "evaluation_metric": "1:なりたくない-100:なりたい"
+    },
+    {
+      "number": "3",
+      "theme": "なりたい有名人",
+      "evaluation_metric": "1:なりたくない-100:なりたい"
+    },
+    {
+      "number": "4",
+      "theme": "なりたいキャラ（アニメ・漫画・ゲーム）",
+      "evaluation_metric": "1:なりたくない-100:なりたい"
+    },
+    {
+      "number": "5",
+      "theme": "モテる条件・特技",
+      "evaluation_metric": "1:モテない-100:モテる"
+    },
+    {
+      "number": "6",
+      "theme": "ほしい特殊能力・武器（必殺技・道具）",
+      "evaluation_metric": "1:いらない-100:ほしい"
+    },
+    {
+      "number": "7",
+      "theme": "便利なもの",
+      "evaluation_metric": "1:不便-100:便利"
+    },
+    {
+      "number": "8",
+      "theme": "されたいプロポーズ（セリフ・シチュエーション）",
+      "evaluation_metric": "1:されたくない-100:されたい"
+    }
+  ]
+  ,
+  "theme4":[
+    {
+      "number": "1",
+      "theme": "ゾンビと戦うときに持っていきたいもの",
+      "evaluation_metric": "1:いらない-100:持っていたい"
+    },
+    {
+      "number": "2",
+      "theme": "無人島に持っていきたいもの",
+      "evaluation_metric": "1:いらない-100:持っていきたい"
+    },
+    {
+      "number": "3",
+      "theme": "一人暮らしに必要なもの",
+      "evaluation_metric": "1:いらない-100:必須"
+    },
+    {
+      "number": "4",
+      "theme": "桃太郎になって考えよう 頼りになる家来",
+      "evaluation_metric": "1:頼りにならない-100:頼りになる"
+    },
+    {
+      "number": "5",
+      "theme": "冷蔵庫になって考えよう 入れてほしいもの",
+      "evaluation_metric": "1:入れてほしくない-100:入れてほしい"
+    },
+    {
+      "number": "6",
+      "theme": "宝箱をあけて入ってたら嬉しいもの",
+      "evaluation_metric": "1:嬉しくない-100:嬉しい"
+    },
+    {
+      "number": "7",
+      "theme": "芸人になって考えよう ヤバい罰ゲーム",
+      "evaluation_metric": "1:ヤバくない-100:ヤバい"
+    },
+    {
+      "number": "8",
+      "theme": "公園の石をどかしたとき、あったらビックリするもの",
+      "evaluation_metric": "1:少しビックリ-100:超ビックリ"
+    },
+    {
+      "number": "9",
+      "theme": "探検家になって考えよう ワクワクする場所",
+      "evaluation_metric": "1:ワクワクしない-100:ワクワクする"
+    },
+    {
+      "number": "10",
+      "theme": "桃太郎の場面（お話のどのあたりか）",
+      "evaluation_metric": "1:むかしむかし-100:めでたしめでたし"
+    }
+  ]
+
+}

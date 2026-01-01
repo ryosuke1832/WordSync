@@ -1,0 +1,110 @@
+"accessibility.manual" = "遊び方";
+"accessibility.switch_to_english" = "英語に切り替え";
+"accessibility.switch_to_japanese" = "日本語に切り替え";
+
+"top.subtitle" = "正解のない「すり合わせ」ゲーム";
+"top.start_hint" = "タップしてゲームを開始";
+"start_button.play" = "Play";
+
+"member_number.title" = "人数設定";
+"member_number.prompt" = "プレイ人数を選択してください";
+"member_number.range_hint" = "3人から10人まで";
+"player_count_format" = "%d人";
+"decision.confirm" = "決定";
+
+"member_name.title" = "名前設定";
+"member_name.prompt" = "プレイヤーの名前を入力してください";
+"member_name.player_label_format" = "プレイヤー %d";
+"member_name.placeholder_format" = "ユーザー%d";
+
+"theme_select.title" = "テーマ設定";
+"theme_select.random_section" = "ランダムでテーマを決める";
+"theme_select.random_button" = "ランダム選択";
+"theme_select.category_section" = "カテゴリーから選ぶ";
+"theme_select.custom_section" = "カスタムテーマ";
+"theme_select.custom_theme_placeholder" = "お題を入力";
+"theme_select.custom_metric_placeholder" = "評価軸（例: 1:低い-100:高い）";
+"theme_select.custom_confirm" = "カスタムテーマで決定";
+"theme_select.confirm_title" = "このテーマで開始しますか？";
+"theme_list.title_default" = "お題一覧";
+
+"category.theme1" = "人気ランキング";
+"category.theme2" = "感情・感覚";
+"category.theme3" = "憧れ・願望";
+"category.theme4" = "シチュエーション";
+
+"confirmation.title" = "確認";
+"confirmation.theme_title" = "テーマ";
+"confirmation.prompt" = "ひとりずつ番号を確認してください";
+"confirmation.no_players" = "プレイヤーが設定されていません";
+"confirmation.tap_hint" = "タップして数字を確認";
+"confirmation.next" = "次へ";
+"confirmation.is_player_format" = "あなたは「%@」ですか？";
+"confirmation.number_title" = "あなたの数字";
+"confirmation.close" = "閉じる";
+
+"discussion.title" = "ディスカッション";
+"discussion.result_input" = "結果を入力する";
+"discussion.end_title" = "議論終了";
+"discussion.end_message" = "結果の入力に進みましょう";
+"timer.minus_format" = "-%d分";
+"timer.plus_format" = "+%d分";
+
+"result_input.title" = "順位入力";
+"result_input.instruction" = "長押しでドラッグして順番を入れ替えてください";
+"result_input.confirm" = "決定";
+
+"result_page.title" = "結果発表";
+"result_page.no_data" = "データがありません";
+"result_page.your_number_format" = "あなたの数字: %d";
+"result_summary.all_correct" = "全問正解！";
+"result_summary.not_all" = "残念...";
+"result_summary.all_message" = "おめでとうございます！\n素晴らしい成績です！";
+"result_summary.not_message" = "次回は全問正解を目指して\nがんばりましょう！";
+"result_summary.restart_same" = "もう一度";
+"result_summary.home" = "Homeに戻る";
+"result_summary.title_perfect" = "Perfect Sync!";
+"result_summary.title_close" = "Close!";
+"result_summary.title_gap" = "Interesting Gap!";
+"result_summary.title_wide" = "Big Gap!";
+"result_summary.match_rate_format" = "一致率 %d%%";
+
+"manual.title" = "遊び方";
+"manual.overview_title" = "ゲーム概要";
+"manual.overview_content" = "このゲームは、各自に配られた数字の大きさを、お題に沿った会話の中でうまく伝えるゲームです。\nプレイヤーは自分の持つ数字をお題に沿って表現し、全員で協力して正しい順番を目指します。";
+"manual.section1_title" = "1. プレイ人数を選ぼう";
+"manual.section1_content" = "3人から10人までのプレイ可能です";
+"manual.section2_title" = "2. プレイヤー名を決めよう";
+"manual.section2_content" = "各プレイヤーの名前を入力しよう";
+"manual.section3_title" = "3. テーマを選ぼう";
+"manual.section3_content" = "用意されたテーマから選ぶか、オリジナルのテーマを作成できます";
+"manual.section4_title" = "4. 数字の確認";
+"manual.section4_content" = "各プレイヤーは1から100までの数字をランダムで与えれます。自分の数字は他のプレイヤーに見られないように確認してください。";
+"manual.section5_title" = "5. ディスカッション";
+"manual.section5_content" = "テーマに沿って、プレイヤー同士で議論します。制限時間は内に、お題に沿った表現で数字をうまく伝えよう。";
+"manual.section6_title" = "6. 順位を決める";
+"manual.section6_content" = "議論が終わったら、プレイヤーたちで相談して全員の順番を決めます。数字が小さい順に並べ替えてください。";
+"manual.section7_title" = "7. 結果発表";
+"manual.section7_content" = "入力した順番と実際の数字を照らし合わせて、正解を確認します。全員の数字が正しい順番になっていれば勝利です！";
+"manual.tips_title" = "遊ぶコツ！";
+"manual.tips_content" = "• 数字を直接言わず、テーマに沿った表現を工夫しましょう\n• 他のプレイヤーの発言をよく聞いて、数字の大小を推測しましょう";
+"manual.example_title" = "具体例";
+"manual.example_theme" = "お題：「強い生物は？」";
+"manual.example_text" = "95を持っているAさん → 「ライオン」\n50を持っているBさん → 「サル」\n5を持っているCさん → 「アリ」";
+"manual.example_description" = "強い生物という定義は人によって違います。うまく会話で擦り合わせて、与えられた数字通りに並び替えられるようにしましょう！";
+"common.cancel" = "キャンセル";
+"common.no" = "いいえ";
+"common.yes" = "はい";
+"theme_select.default_metric" = "1:低い-100:高い";
+"common.unset" = "未設定";
+"validation.title" = "確認";
+"validation.player_count_range" = "参加人数は3〜10人です";
+"validation.player_count_mismatch" = "プレイヤー人数が一致しません";
+"validation.player_name_empty" = "名前が未入力のプレイヤーがいます";
+"validation.player_name_duplicate" = "同じ名前は使えません";
+"validation.theme_missing" = "テーマが未選択です";
+"validation.players_data_missing" = "プレイヤー情報が不足しています";
+"validation.result_count_mismatch" = "順位の人数が正しくありません";
+"validation.results_missing" = "結果がまだ準備できていません";
+"validation.results_mismatch" = "結果データが不整合です";
+"common.ok" = "OK";
